@@ -262,8 +262,8 @@ footer {
     float: left;
     width: 50%;
     padding: 1.6%;
-    height: 550px;
-    background-color: #0ff;
+    height: 600px;
+    background-color: rgb(132, 13, 116);
 }
 
 @media screen and (max-width: 576px) {
@@ -276,7 +276,7 @@ footer {
     float: left;
     width: 50%;
     padding: 1.6%;
-    height: 550px;
+    height: 600px;
     background-color: #4d4d4d;
 }
 
